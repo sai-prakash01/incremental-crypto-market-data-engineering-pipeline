@@ -1,0 +1,4 @@
+asset_id,asset_sk,effective_from,effective_to,is_current
+bitcoin,1,2025-12-28 17:19:17.689751+00:00,,True
+ethereum,2,2025-12-28 17:19:17.689751+00:00,,True
+solana,3,2025-12-28 17:19:17.689751+00:00,,True
